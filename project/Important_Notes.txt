@@ -1,0 +1,7 @@
+Important notes:
+
+1) Behavior_planner_FSM.cpp
+the direction about the behaviour and steering required.
+
+2) Motion_planner.cpp
+Enabled the direction in line 52-56
