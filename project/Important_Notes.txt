@@ -5,3 +5,6 @@ the direction about the behaviour and steering required.
 
 2) Motion_planner.cpp
 Enabled the direction in line 52-56
+
+3) velocity_profile_generator.cpp
+unused desired_speed variable
